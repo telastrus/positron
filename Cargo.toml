@@ -1,0 +1,10 @@
+[package]
+name = "positron"
+version = "0.1.0"
+authors = ["telastrus <10052313+telastrus@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+#sysfs_gpio = "0.5"
+rppal = "0.10"
+arrayfire = "3.6"
