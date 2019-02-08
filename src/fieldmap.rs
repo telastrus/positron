@@ -1,8 +1,7 @@
 use std::vec::Vec;
 
 struct Chunk {
-    size: i16,
-    l
+    size: i16
 }
 
 
